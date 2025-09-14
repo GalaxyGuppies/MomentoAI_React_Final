@@ -1,0 +1,47 @@
+{
+  "Personal Moments": {
+    "People": ["portrait", "selfie", "group", "friends", "family", "candid", "face", "person", "human"],
+    "Pets & Animals": ["pet", "dog", "cat", "animal", "wildlife", "bird", "fish", "horse", "rabbit", "hamster"],
+    "Events": ["celebration", "concert", "sport", "gathering", "party", "wedding", "birthday", "festival", "event"]
+  },
+  "Outdoors & Nature": {
+    "Landscapes": ["mountain", "forest", "beach", "desert", "scenery", "nature", "lake", "river", "field", "valley"],
+    "Travel": ["vacation", "trip", "landmark", "tour", "travel", "journey", "destination", "sightseeing"],
+    "Weather & Sky": ["cloud", "sunset", "sunrise", "storm", "rain", "snow", "sky", "weather", "lightning", "fog"]
+  },
+  "Food & Lifestyle": {
+    "Food": ["meal", "drink", "food", "cooking", "baking", "dinner", "lunch", "breakfast", "snack"],
+    "Fashion": ["clothing", "accessory", "style", "outfit", "dress", "shoes", "jewelry", "fashion"],
+    "Personal Items": ["belonging", "collection", "object", "item", "everyday", "stuff", "things"]
+  },
+  "Art & Architecture": {
+    "Architecture": ["building", "home", "city", "skyscraper", "architecture", "structure", "apartment", "house", "skyline"],
+    "Art": ["painting", "sculpture", "street art", "installation", "art", "drawing", "sketch", "gallery"],
+    "Creative": ["abstract", "pattern", "artistic", "expression", "design", "creative", "concept"]
+  },
+  "Digital & Gaming": {
+    "Memes & Humor": ["meme", "funny", "humor", "joke", "viral", "post", "remark", "laugh"],
+    "Social Media": ["post", "profile", "conversation", "social", "media", "tweet", "facebook", "instagram", "tiktok"],
+    "Gaming": ["game", "screenshot", "score", "character", "design", "gaming", "play", "level"]
+  },
+  "Documents & Data": {
+    "Important Info": ["receipt", "ticket", "qr code", "confirmation", "number", "info", "invoice", "code"],
+    "Work & School": ["document", "presentation", "chart", "note", "work", "school", "assignment", "report"],
+    "Communications": ["text", "message", "chat", "conversation", "sms", "email", "communication"]
+  },
+  "Technical & Help": {
+    "Troubleshooting": ["error", "bug", "issue", "problem", "troubleshoot", "fail", "crash"],
+    "Tutorials": ["step", "guide", "how-to", "tutorial", "instruction", "process", "walkthrough"],
+    "UI/UX": ["website", "layout", "app", "interface", "design", "ui", "ux", "screen"]
+  },
+  "Objects & Collections": {
+    "Products": ["item", "sale", "product", "documentation", "goods", "object"],
+    "Still Life": ["arrangement", "inanimate", "still life", "object", "composition"],
+    "Collections": ["hobby", "series", "collection", "collected", "set"]
+  },
+  "Urban Life": {
+    "Cityscapes": ["urban", "street", "city", "view", "buildings", "downtown", "cityscape"],
+    "Transportation": ["car", "train", "bike", "transport", "vehicle", "bus", "subway", "plane"],
+    "Street Life": ["candid", "people", "activity", "city", "street", "life", "urban"]
+  }
+}

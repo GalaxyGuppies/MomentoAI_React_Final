@@ -1,0 +1,191 @@
+# Exclude large model weight files
+offload/*.dat
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+<<<<<<< HEAD
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+*.log
+*.tmp
+.expo-shared/
+android/build/
+ios/build/
+*.keystore
+
+# Python backend (should not be present, but just in case)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+*.egg-info/
+*.sqlite3
+
+# Model weights and large files
+ner-model/offload/*.dat
+*.h5
+*.pt
+*.ckpt
+*.onnx
+*.pb
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Environment/config
+.env
+.env.*
+*.secret
+*.bak
+
+# Misc
+*.orig
+*.old
+*.backup
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+offload/*.dat
+ner-model/offload/*.dat
+ner-model/vicuna_data/*
+ner-model/__pycache__/*
+ner-model/venv/*
+ner-gazetteers/__pycache__/*
+=======
+# OSX
+#
+.DS_Store
+=======
+>>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+*.log
+*.tmp
+.expo-shared/
+android/build/
+ios/build/
+*.keystore
+
+# Python backend (should not be present, but just in case)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+*.egg-info/
+*.sqlite3
+
+# Model weights and large files
+ner-model/offload/*.dat
+*.h5
+*.pt
+*.ckpt
+*.onnx
+*.pb
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Environment/config
+.env
+.env.*
+*.secret
+*.bak
+
+# Misc
+*.orig
+*.old
+*.backup
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+<<<<<<< HEAD
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+>>>>>>> c2bd6f4 (Initial commit)
+=======
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+offload/*.dat
+ner-model/offload/*.dat
+ner-model/vicuna_data/*
+ner-model/__pycache__/*
+ner-model/venv/*
+ner-gazetteers/__pycache__/*
+>>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)

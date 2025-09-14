@@ -1,0 +1,132 @@
+{
+  "Personal Moments": {
+    "People": ["Portraits", "selfies", "group photos", "candid shots of friends or family", "memories", "snapshots", "life events", "milestones", "recollections", "keepsakes", "photo diary", "candid memories", "family album", "PM", "PersMom", "P-Moments", "PsnlMom", "PersM", "PersMt", "PicaMom", "presonal moments", "personal momments", "personl moments", "persnal moments", "personnal moments", "personal momnts", "permsonal moments", "Portraits", "group shots", "candid photos", "family", "friends", "individuals", "crowds", "headshots", "full-body shots", "person", "people", "bench"],
+    "Pets & Animals": ["Photos of your own pets", "wildlife", "animals you encounter", "Domestic animals", "wild animals", "fauna", "critters", "beloved pets", "fur babies", "farm animals", "zoo animals", "wildlife encounters", "cat", "dog", "hamster", "bird", "rabbit", "fish", "snake", "lizard", "mouse", "rat", "guinea pig", "turtle", "frog", "horse", "cow", "sheep", "goat", "pig", "duck", "chicken", "goose", "parrot", "canary", "finch", "pigeon", "owl", "hawk", "eagle", "falcon", "swan", "peacock", "turkey", "bee", "butterfly", "ant", "spider", "crab", "lobster", "shrimp", "octopus", "seal", "whale", "dolphin", "shark", "penguin", "otter", "fox", "wolf", "bear", "lion", "tiger", "leopard", "cheetah", "panther", "cougar", "lynx", "bobcat", "jaguar", "camel", "donkey", "mule", "monkey", "gorilla", "chimpanzee", "baboon", "orangutan", "giraffe", "zebra", "kangaroo", "koala", "panda", "elephant", "rhinoceros", "hippopotamus", "crocodile", "alligator", "iguana", "gecko", "salamander", "newt", "toad", "snail", "slug", "worm", "moth", "dragonfly", "grasshopper", "locust", "beetle", "ladybug", "firefly", "mosquito", "fly", "wasp", "hornet", "termite", "tick", "flea", "scorpion", "centipede", "millipede", "starfish", "sea urchin", "jellyfish", "clam", "oyster", "mussel", "squid", "crayfish", "sea turtle", "manatee", "narwhal", "walrus", "seal", "otter", "platypus", "armadillo", "sloth", "hedgehog", "porcupine", "skunk", "raccoon", "badger", "weasel", "ferret", "mongoose", "meerkat", "lemur", "bat", "mole", "shrew", "vole", "chipmunk", "squirrel", "beaver", "muskrat", "woodchuck", "groundhog", "prairie dog", "gopher", "opossum", "possum", "kangaroo rat", "jerboa", "agouti", "capybara", "tapir", "antelope", "gazelle", "deer", "moose", "elk", "caribou", "reindeer", "buffalo", "bison", "yak", "ox", "water buffalo", "camel", "llama", "alpaca", "vicuna", "guanaco", "horse", "pony", "donkey", "mule", "zebra", "giraffe", "okapi", "elephant", "mammoth", "mastodon", "rhinoceros", "hippopotamus", "pig", "boar", "warthog", "tapir", "aardvark", "anteater", "pangolin", "armadillo", "sloth", "otter", "beaver", "platypus", "porcupine", "hedgehog", "shrew", "mole", "bat", "lemur", "monkey", "ape", "gorilla", "chimpanzee", "orangutan", "baboon", "gibbon", "siamang", "proboscis monkey", "mandrill", "drill", "colobus monkey", "howler monkey", "spider monkey", "squirrel monkey", "capuchin monkey", "tamarin", "marmoset", "lion tamarin", "night monkey", "owl monkey", "titi monkey", "saki monkey", "uakari", "douc langur", "snub-nosed monkey", "golden monkey", "red-shanked douc", "black-shanked douc", "silvered langur", "dusky leaf monkey", "spectacled langur", "purple-faced langur", "gray langur", "hanuman langur", "langur", "proboscis monkey", "mandrill", "drill", "colobus monkey", "howler monkey", "spider monkey", "squirrel monkey", "capuchin monkey", "tamarin", "marmoset", "lion tamarin", "night monkey", "owl monkey", "titi monkey", "saki monkey", "uakari", "douc langur", "snub-nosed monkey", "golden monkey", "red-shanked douc", "black-shanked douc", "silvered langur", "dusky leaf monkey", "spectacled langur", "purple-faced langur", "gray langur", "hanuman langur", "langur", "proboscis monkey", "mandrill", "drill", "colobus monkey", "howler monkey", "spider monkey", "squirrel monkey", "capuchin monkey", "tamarin", "marmoset", "lion tamarin", "night monkey", "owl monkey", "titi monkey", "saki monkey", "uakari", "douc langur", "snub-nosed monkey", "golden monkey", "red-shanked douc", "black-shanked douc", "silvered langur", "dusky leaf monkey", "spectacled langur", "purple-faced langur", "gray langur", "hanuman langur", "langur", "cat", "dog", "bench"],
+    "Events": ["Images from celebrations", "concerts", "sporting events", "social gatherings", "Celebrations", "parties", "social gatherings", "concerts", "sporting events", "festivals", "ceremonies", "meetups", "outings"],
+    "Synonyms": ["memories", "snapshots", "life events", "milestones", "recollections", "keepsakes", "photo diary", "candid memories", "family album"],
+    "Abbreviations": ["PM", "PersMom", "P-Moments", "PsnlMom", "PersM", "PersMt", "PicaMom"],
+    "Misspellings": ["presonal moments", "personal momments", "personl moments", "persnal moments", "personnal moments", "personal momnts", "permsonal moments"],
+    "AllKeywords": [
+      "personal moments", "people", "pets & animals", "events", "family", "memories", "selfies", "portraits", "headshots", "posed shots", "candid shots of friends or family", "group photos", "candid captures", "spontaneous moments", "unposed pics", "life events", "weddings", "birthdays", "graduations", "anniversaries", "pets", "domestic pets", "wildlife", "animals you encounter", "dogs", "cats", "birds", "hamsters", "reptiles", "exotic pets", "farm animals", "zoo animals", "celebrations", "concerts", "sporting events", "social gatherings", "photo diary", "family album", "personal chronicles", "visual journal", "sentimental captures", "milestones", "recollections", "keepsakes", "snapshots", "pm", "persmom", "p-moments", "psnlmom", "persm", "persmt", "picamom", "persch", "memsnap", "presonal moments", "personal momments", "personl moments", "persnal moments", "personnal moments", "personal momnts", "permsonal moments", "presonel moments", "pout pics", "duck face", "self-portraits", "old photos", "childhood pictures", "nostalgic images"
+    ]
+  },
+  "Outdoors & Nature": {
+    "Landscapes": ["Scenery like mountains", "forests", "beaches", "deserts", "wilderness scenes", "natural landscapes", "eco shots", "open-air photos", "countryside views", "flora & fauna", "terrain captures", "environmental shots", "outdoor vistas", "O&N", "Outdrs", "Nat", "Ntr & Out", "O-Nature", "outdors & nature", "natur & outdor", "outddors & natur", "outdoor & natre", "outdor & nuture", "outrdoors & nature"],
+    "Travel": ["Pictures taken on vacation", "documenting trips", "landmarks"],
+    "Weather & Sky": ["Photos of clouds", "sunsets", "sunrises", "storms"],
+    "Synonyms": ["wilderness scenes", "natural landscapes", "eco shots", "open-air photos", "countryside views", "flora & fauna", "terrain captures", "environmental shots", "outdoor vistas"],
+    "Abbreviations": ["O&N", "Outdrs", "Nat", "Ntr & Out", "O-Nature"],
+    "Misspellings": ["outdors & nature", "natur & outdor", "outddors & natur", "outdoor & natre", "outdor & nuture", "outrdoors & nature"],
+    "AllKeywords": [
+      "outdoors & nature", "landscapes", "travel", "weather & sky", "flora & fauna", "outdoor activities", "geology", "scenery", "mountains", "forests", "beaches", "deserts", "wilderness scenes", "natural landscapes", "eco shots", "open-air photos", "countryside views", "terrain captures", "environmental shots", "outdoor vistas", "natural formations", "vacation photos", "documenting trips", "landmarks", "city travel", "rural travel", "international travel", "road trips", "clouds", "sunsets", "sunrises", "storms", "sky photos", "weather phenomena", "hiking", "camping", "skiing", "kayaking", "fishing", "rock climbing", "rocks", "minerals", "canyons", "volcanoes", "o&n", "outdrs", "nat", "ntr & out", "o-nature", "earthsna", "wildcapt", "outdors & nature", "natur & outdor", "outddors & natur", "outdoor & natre", "outdor & nuture", "outrdoors & nature", "outdoors and nature"
+    ]
+  },
+  "Food & Lifestyle": {
+    "Food": ["Pictures of meals", "drinks", "food preparation", "dining moments", "cuisine scenes", "eats & living", "gastronomy shots", "meal chronicles", "culinary captures", "lifestyle snippets", "daily rituals", "F&L", "FoodLife", "FodSty", "F-Lifestyle", "CnryLife", "fod & lifestyle", "food & lifstyle", "foood & lifestyle", "fodo & lifestle", "food & lifestyel", "fd & lifestyle"],
+    "Fashion": ["Photos of clothing", "accessories", "personal style"],
+    "Personal Items": ["Images of belongings", "collections", "everyday objects"],
+    "Synonyms": ["dining moments", "cuisine scenes", "eats & living", "gastronomy shots", "meal chronicles", "culinary captures", "lifestyle snippets", "daily rituals"],
+    "Abbreviations": ["F&L", "FoodLife", "FodSty", "F-Lifestyle", "CnryLife"],
+    "Misspellings": ["fod & lifestyle", "food & lifstyle", "foood & lifestyle", "fodo & lifestle", "food & lifestyel", "fd & lifestyle"],
+    "AllKeywords": [
+      "food & lifestyle", "food", "fashion", "personal items", "lifestyle", "shopping", "meals", "drinks", "food preparation", "dining moments", "cuisine scenes", "eats & living", "gastronomy shots", "meal chronicles", "culinary captures", "clothing", "accessories", "personal style", "outfit of the day", "ootd", "footwear", "makeup", "hairstyles", "belongings", "collections", "everyday objects", "hobbies", "fitness", "wellness", "self-care", "daily rituals", "home décor", "interior design", "shopping sprees", "hauls", "retail therapy", "f&l", "foodlife", "fodsty", "f-lifestyle", "cnrylife", "lifesnaps", "dailypix", "fod & lifestyle", "food & lifstyle", "foood & lifestyle", "fodo & lifestle", "food & lifestyel", "fd & lifestyle"
+    ]
+  },
+  "Art & Architecture": {
+    "Architecture": ["Pictures of buildings", "homes", "city skylines", "creative works", "design structures", "visual art", "structural design", "artistic builds", "built environment", "creative spaces", "A&A", "ArtArch", "Art+Arch", "ArtiArch", "A-Architecture", "art & architcture", "art & architechture", "arte & arhitecture", "art & architecure", "art & arhitecure", "art & archituecture"],
+    "Art": ["Photos of paintings", "sculptures", "street art", "artistic installations"],
+    "Creative": ["Images focused on abstract concepts", "patterns", "artistic expression"],
+    "Synonyms": ["creative works", "design structures", "visual art", "structural design", "artistic builds", "built environment", "creative spaces"],
+    "Abbreviations": ["A&A", "ArtArch", "Art+Arch", "ArtiArch", "A-Architecture"],
+    "Misspellings": ["art & architcture", "art & architechture", "arte & arhitecture", "art & architecure", "art & arhitecure", "art & archituecture"],
+    "AllKeywords": [
+      "art & architecture", "architecture", "art", "creative", "design", "historical", "public art", "buildings", "homes", "city skylines", "creative works", "design structures", "visual art", "structural design", "artistic builds", "built environment", "creative spaces", "paintings", "sculptures", "street art", "artistic installations", "abstract concepts", "patterns", "artistic expression", "interior design", "product design", "industrial design", "historical sites", "ruins", "monuments", "a&a", "artarch", "art+arch", "artiarch", "a-architecture", "archart", "a+a", "art & architcture", "art & architechture", "arte & arhitecture", "art & architecure", "art & arhitecure", "art & archituecture", "art and architecture"
+    ]
+  },
+  "Digital & Gaming": {
+    "Memes & Humor": ["Screenshots of funny content", "viral posts", "witty remarks", "digital entertainment", "virtual worlds", "e-media captures", "tech recreation", "gaming moments", "meme culture", "screen content", "D&G", "DigiGam", "DigGame", "D-n-G", "DgtlPlay", "digtal & gaming", "digital & gamng", "digtal & gamng", "digital & giming", "digial & gaming", "digital & gamning"],
+    "Social Media": ["Captures of posts", "profiles", "conversations from social platforms"],
+    "Gaming": ["In-game screenshots", "high scores", "character designs"],
+    "Synonyms": ["digital entertainment", "virtual worlds", "e-media captures", "tech recreation", "gaming moments", "meme culture", "screen content"],
+    "Abbreviations": ["D&G", "DigiGam", "DigGame", "D-n-G", "DgtlPlay"],
+    "Misspellings": ["digtal & gaming", "digital & gamng", "digtal & gamng", "digital & giming", "digial & gaming", "digital & gamning"],
+    "AllKeywords": [
+      "digital & gaming", "memes & humor", "social media", "gaming", "digital content", "entertainment", "screenshots of funny content", "viral posts", "witty remarks", "digital entertainment", "virtual worlds", "e-media captures", "tech recreation", "gaming moments", "meme culture", "screen content", "captures of posts", "profiles", "conversations from social platforms", "in-game screenshots", "high scores", "character designs", "esports", "streaming content", "video games", "app screenshots", "website layouts", "desktop backgrounds", "digital artwork", "code snippets", "programming", "movie scenes", "tv show captures", "youtube videos", "d&g", "digigam", "diggame", "d-n-g", "dgtlplay", "cybersnaps", "e-media", "digtal & gaming", "digital & gamng", "digital & giming", "digial & gaming", "digital & gamning"
+    ]
+  },
+  "Documents & Data": {
+    "Important Info": ["Screenshots of receipts", "tickets", "QR codes", "confirmation numbers", "files & info", "paperwork captures", "records & datasets", "info snapshots", "data records", "document scans", "analytic visuals", "D&D", "DocData", "DocsData", "DnD", "D-Info", "documents & dataa", "docments & data", "docuements & data", "documents & dta", "documants & data", "documennts & data", "important info", "receipts", "tickets", "qr codes", "confirmation numbers", "files", "paperwork", "data records", "info snapshots", "identification"],
+    "Work & School": ["Captures of documents", "presentations", "charts", "notes", "work & school", "documents", "presentations", "charts", "notes", "reports", "homework", "schedules"],
+    "Communications": ["Screenshots of text messages", "chat conversations", "communications", "text messages", "chat conversations", "emails", "phone calls", "social media messages"],
+    "Synonyms": ["files & info", "paperwork captures", "records & datasets", "info snapshots", "data records", "document scans", "analytic visuals"],
+    "Abbreviations": ["D&D", "DocData", "DocsData", "DnD", "D-Info"],
+    "Misspellings": ["documents & dataa", "docments & data", "docuements & data", "documents & dta", "documants & data", "documennts & data"],
+    "AllKeywords": [
+      "documents & data", "important info", "work & school", "communications", "forms", "data", "screenshots of receipts", "tickets", "qr codes", "confirmation numbers", "files & info", "paperwork captures", "records & datasets", "info snapshots", "data records", "document scans", "analytic visuals", "captures of documents", "presentations", "charts", "notes", "screenshots of text messages", "chat conversations", "spreadsheets", "data visualizations", "analytics dashboards", "d&d", "docdata", "docsdata", "dnd", "d-info", "infosnaps", "docs", "documents & dataa", "docments & data", "docuements & data", "documents & dta", "documants & data", "documennts & data"
+    ]
+  },
+  "Technical & Help": {
+    "Troubleshooting": ["Photos of error messages", "bugs", "technical issues", "troubleshooting guides", "tech support", "diagnostics", "how-to tutorials", "error captures", "support docs", "problem-solving shots", "T&H", "TechHelp", "Tech&Help", "T-Support", "THelp", "technical & halp", "technial & help", "techical & help", "technical & hepl", "tecnhical & help", "techncial & help", "troubleshooting", "error messages", "bugs", "technical issues", "guides", "support", "diagnostics", "tutorials", "error captures", "docs", "problem-solving"],
+    "Tutorials": ["Step-by-step screenshots to show a process", "how-to guide", "tutorials", "step-by-step", "process", "how-to"],
+    "UI/UX": ["Captures of website layouts", "app interfaces for design reference", "ui/ux", "website layouts", "app interfaces", "design reference"],
+    "Synonyms": ["troubleshooting guides", "tech support", "diagnostics", "how-to tutorials", "error captures", "support docs", "problem-solving shots"],
+    "Abbreviations": ["T&H", "TechHelp", "Tech&Help", "T-Support", "THelp"],
+    "Misspellings": ["technical & halp", "technial & help", "techical & help", "technical & hepl", "tecnhical & help", "techncial & help"],
+    "AllKeywords": [
+      "technical & help", "troubleshooting", "tutorials", "ui/ux", "hardware", "software", "photos of error messages", "bugs", "technical issues", "troubleshooting guides", "tech support", "diagnostics", "how-to tutorials", "error captures", "support docs", "problem-solving shots", "step-by-step screenshots to show a process", "how-to guide", "captures of website layouts", "app interfaces for design reference", "t&h", "techhelp", "tech&help", "t-support", "thelp", "techref", "solvsnaps", "technical & halp", "technial & help", "techical & help", "technical & hepl", "tecnhical & help", "techncial & help"
+    ]
+  },
+  "Objects & Collections": {
+    "Products": [
+      "Photos of items for sale", "personal documentation", "items & sets", "artifacts & archives", "stock shots", "hobby series", "curated collections", "inanimate stills", "O&C", "ObjColl", "Obj&Coll", "O-Collections", "ObjSet", "objects & collectons", "objetcs & collections", "object & collectin", "obj & colletions", "objecs & collections", "products", "items", "artifacts", "collections", "sets", "bed", "vase", "boarding pass", "ticket", "car", "vehicle", "transport", "travel item", "luggage", "suitcase", "receipt"
+    ],
+    "Still Life": [
+      "Artistic arrangements of inanimate objects", "still life", "artistic arrangements", "inanimate objects", "bed", "vase", "table", "lamp", "chair", "sofa", "furniture", "decor", "object", "artifact"
+    ],
+    "Collections": [
+      "Images of a hobby", "series of collected items", "collections", "hobby", "stamp", "coin", "card", "toy", "figurine", "memorabilia", "archive", "set", "batch"
+    ],
+    "Synonyms": ["items & sets", "artifacts & archives", "stock shots", "hobby series", "curated collections", "inanimate stills"],
+    "Abbreviations": ["O&C", "ObjColl", "Obj&Coll", "O-Collections", "ObjSet"],
+    "Misspellings": ["objects & collectons", "objetcs & collections", "object & collectin", "obj & colletions", "objecs & collections"],
+    "AllKeywords": [
+      "objects & collections", "products", "still life", "collections", "inanimate objects", "artifacts", "photos of items for sale", "personal documentation", "items & sets", "artifacts & archives", "stock shots", "hobby series", "curated collections", "inanimate stills", "artistic arrangements of inanimate objects", "images of a hobby", "series of collected items", "household items", "tools", "appliances", "books", "toys", "antiques", "historical items", "museum pieces", "crafts & hobbies", "o&c", "objcoll", "obj&coll", "o-collections", "objset", "itemsnaps", "collpix", "bed", "vase", "boarding pass", "ticket", "car", "vehicle", "transport", "travel item", "luggage", "suitcase", "receipt", "table", "lamp", "chair", "sofa", "furniture", "decor", "object", "stamp", "coin", "card", "toy", "figurine", "memorabilia", "archive", "set", "batch"
+    ]
+  },
+  "Urban Life": {
+    "Cityscapes": ["Photos of urban environments", "streets", "city views", "cityscapes", "metropolitan scenes", "street culture", "urban environment", "city vibes", "downtown shots", "neon nights", "UL", "UrbLife", "UrbLf", "U-Life", "CityL", "urnan life", "urban lyfe", "urben life", "urbun life", "urban lief", "ubran life", "cityscapes", "urban environments", "streets", "city views", "metropolitan scenes", "street culture", "urban environment", "city vibes", "downtown shots", "neon nights"],
+    "Transportation": ["Images of cars", "trains", "bikes", "other forms of transport", "Auto", "Automotive", "Truck", "Car", "SUV", "Sedan", "Van", "Bus", "Vehicle", "Commercial vehicle", "transportation", "cars", "trains", "bikes", "auto", "automotive", "truck", "car", "suv", "sedan", "van", "bus", "vehicle", "commercial vehicle", "boarding pass"],
+    "Street Life": ["Candid shots of people", "daily activity in a city", "street life", "candid shots", "people", "daily activity", "city"],
+    "Synonyms": ["cityscapes", "metropolitan scenes", "street culture", "urban environment", "city vibes", "downtown shots", "neon nights"],
+    "Abbreviations": ["UL", "UrbLife", "UrbLf", "U-Life", "CityL"],
+    "Misspellings": ["urnan life", "urban lyfe", "urben life", "urbun life", "urban lief", "ubran life"],
+    "AllKeywords": [
+      "urban life", "cityscapes", "transportation", "street life", "buildings", "graffiti", "public spaces", "photos of urban environments", "streets", "city views", "metropolitan scenes", "street culture", "urban environment", "city vibes", "downtown shots", "neon nights", "images of cars", "trains", "bikes", "auto", "automotive", "truck", "car", "suv", "sedan", "van", "bus", "vehicle", "commercial vehicle", "candid shots of people", "daily activity in a city", "skyscrapers", "historical buildings", "commercial buildings", "residential buildings", "street art", "murals", "tags", "parks", "plazas", "squares", "markets", "urban gardens", "ul", "urblife", "urblf", "u-life", "cityl", "urbcap", "streetsnaps", "urnan life", "urban lyfe", "urben life", "urbun life", "urban lief", "ubran life", "boarding pass"
+    ]
+  },
+  "Financial & Commerce": {
+    "Transactions": ["Receipts", "Invoices", "Payment confirmations"],
+    "Banking": ["Bank statements", "Wire transfer details", "Account info"],
+    "Investments": ["Stock charts", "Crypto wallet screenshots", "Investment statements"],
+    "Commerce": ["Product details", "Shipping confirmations", "Wishlist items", "Coupon codes", "Online shopping", "Shopping carts", "Amazon", "Etsy", "Shipping confirmations", "E-commerce"],
+    "AllKeywords": [
+      "financial & commerce", "transactions", "banking", "investments", "commerce", "receipts", "invoices", "payment confirmations", "bank statements", "stock charts", "crypto wallet screenshots", "product details", "shipping confirmations", "wishlist items", "coupon codes", "online shopping", "shopping carts", "amazon", "etsy", "e-commerce",
+      "Transactions", "banking", "investments", "e-commerce", "money management", "Receipts", "invoices", "payment confirmations", "purchase records", "bills", "financial records", "Bank statements", "account information", "wire transfer details", "online banking screenshots", "Stock charts", "crypto wallet screenshots", "investment statements", "portfolio tracking", "financial charts", "Product details", "shopping carts", "shipping confirmations", "online shopping receipts", "coupon codes", "Digital receipts", "purchase confirmations", "sales records", "Billing statements", "expense reports", "payment requests", "Transaction receipts", "order confirmations", "wire transfer receipts", "Financial summaries", "account activity", "transaction history", "Market data", "stock performance", "investment graphs", "Cryptocurrency balances", "wallet addresses", "crypto transactions", "Item descriptions", "product specs", "retail information", "Tracking numbers", "delivery updates", "order status", "Saved products", "wishlists", "shopping lists", "E-commerce", "retail websites", "shopping apps"
+    ]
+  },
+  "Health & Fitness": {
+    "Wellness": ["Medical records", "Prescriptions", "Appointment confirmations", "Health information", "Symptoms", "Diagnosis", "Vitals", "Test results", "Health & wellness", "Workout", "Recipe", "Symptoms", "Doctor's notes"],
+    "Fitness": ["Workout routines", "Nutrition plans", "Progress photos", "Running maps"],
+    "AllKeywords": [
+      "health & fitness", "wellness", "fitness", "medical records", "prescriptions", "appointment confirmations", "health information", "symptoms", "diagnosis", "vitals", "test results", "health & wellness", "workout", "recipe", "doctor's notes", "workout routines", "nutrition plans", "progress photos", "running maps",
+      "Wellness", "physical activity", "nutrition", "medical records", "workout plans", "Medical records", "prescriptions", "appointment confirmations", "test results", "doctor's notes", "Workout routines", "nutrition plans", "progress photos", "running maps", "exercise routines", "Patient history", "doctor's notes", "medical charts", "prescriptions", "Medication lists", "pharmacy receipts", "drug information", "Doctor appointments", "clinic visits", "medical bookings", "Symptoms", "diagnosis", "test results", "vitals", "medical reports", "Exercise plans", "gym routines", "training schedules", "Diet plans", "meal prep", "recipes", "food logs", "Before-and-after photos", "fitness journey snapshots", "GPS tracking", "running routes", "workout maps"
+    ]
+  },
+  "Passwords & Credentials": {
+    "Credentials": ["Passwords", "Login details", "Account recovery questions", "PIN codes", "Security answers", "Privacy warning"],
+    "AllKeywords": [
+      "passwords & credentials", "credentials", "login details", "account recovery questions", "pin codes", "security answers", "privacy warning",
+      "Login details", "account information", "security answers", "PIN codes", "account access", "Usernames", "passwords", "login info", "account details", "Account information", "sign-in credentials", "user access", "Security questions", "password reset info", "Personal identification numbers", "security codes", "access codes", "Secret questions", "security responses"
+    ]
+  }
+}
