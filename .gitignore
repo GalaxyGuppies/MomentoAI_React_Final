@@ -158,29 +158,4 @@ npm-debug.*
 yarn-debug.*
 yarn-error.*
 
-<<<<<<< HEAD
-# Yarn
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
->>>>>>> c2bd6f4 (Initial commit)
-=======
-# macOS
-.DS_Store
-*.pem
-
-# local env files
-.env*.local
-
-# typescript
-*.tsbuildinfo
-offload/*.dat
-ner-model/offload/*.dat
-ner-model/vicuna_data/*
-ner-model/__pycache__/*
-ner-model/venv/*
 ner-gazetteers/__pycache__/*
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)

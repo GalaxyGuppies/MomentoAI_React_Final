@@ -17,8 +17,4 @@ module.exports = function (api) {
   // ...existing code...
     ],
   };
-<<<<<<< HEAD
-};
-=======
-};
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
+  };

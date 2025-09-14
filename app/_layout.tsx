@@ -1,19 +1,11 @@
 
 import React, { useEffect, useState } from 'react';
 import { View, Text } from 'react-native';
-<<<<<<< HEAD
-import { FileProvider } from '@/context/FileContext';
-import { PersonalityProvider } from '../utils/PersonalityContext';
-import { DropShadowProvider } from '../utils/DropShadowContext';
-// import DrawerNav for static navigation
-import DrawerNav from '@/components/DrawerNav';
-=======
 import { FileProvider } from '../context/FileContext';
 import { PersonalityProvider } from '../utils/PersonalityContext';
 import { DropShadowProvider } from '../utils/DropShadowContext';
 // import DrawerNav for static navigation
 import DrawerNav from '../components/DrawerNav';
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
 
 // ErrorBoundary component to catch React errors
 class ErrorBoundary extends React.Component<any, { hasError: boolean; error: any }> {

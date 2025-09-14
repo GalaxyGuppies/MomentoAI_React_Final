@@ -1,13 +1,5 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  // "extends": "expo/tsconfig.base", // Removed Expo base
   "compilerOptions": {
-=======
-  // "extends": "expo/tsconfig.base", // Removed Expo base
-  "compilerOptions": {
-    "strict": true,
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
     "target": "esnext",
     "moduleResolution": "node",
     "jsx": "react-native",
@@ -22,16 +14,6 @@
       ]
     }
   },
-  "include": [
-    "**/*.ts",
-    "**/*.tsx"
-  ]
-<<<<<<< HEAD
-=======
-  "extends": "@react-native/typescript-config",
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["**/node_modules", "**/Pods"]
->>>>>>> c2bd6f4 (Initial commit)
-=======
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
 }

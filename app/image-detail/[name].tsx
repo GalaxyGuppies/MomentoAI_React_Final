@@ -3,15 +3,9 @@ import RNFS from 'react-native-fs';
 import { View, Text, ScrollView, Pressable, Modal, FlatList, Alert, Linking } from 'react-native';
 import { useRoute, useNavigation } from '@react-navigation/native';
 import AspectRatioImage from '../../components/AspectRatioImage';
-<<<<<<< HEAD
-import AnalyticsDetails from '@/components/AnalyticsDetails';
-import Share from 'react-native-share';
-import { FileContext } from '@/context/FileContext';
-=======
 import AnalyticsDetails from '../../components/AnalyticsDetails';
 import Share from 'react-native-share';
 import { FileContext } from '../../context/FileContext';
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
 import RNCalendarEvents from 'react-native-calendar-events';
 
 export default function ImageDetail() {

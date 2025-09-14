@@ -5,11 +5,7 @@ import { View, Text, ScrollView, TouchableOpacity, Image, Pressable, Alert, Dime
 import { useNavigation, useRoute } from '@react-navigation/native';
 import type { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import type { TabParamList } from '../navigation/types';
-<<<<<<< HEAD
-import { useFiles } from '@/context/FileContext';
-=======
 import { useFiles } from '../context/FileContext';
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
 
 type EventInfo = {
   start?: Date;

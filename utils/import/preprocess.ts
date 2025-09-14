@@ -1,10 +1,6 @@
 import { API_BASE_URL, API_ENDPOINTS } from '../config';
 // Handles backend image preprocessing API calls
-<<<<<<< HEAD
-import { resizeImage } from '@/hooks/resizeImage';
-=======
 import { resizeImage } from '../../hooks/resizeImage';
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
 import { decode as atob } from 'base-64';
 
 export async function preprocessImageBackend(uri: string, PREPROCESS_API_URL: string, uuid_str: string): Promise<any> {

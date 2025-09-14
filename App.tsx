@@ -1,9 +1,5 @@
 import { View, Text } from 'react-native';
-<<<<<<< HEAD
-import React from 'react';
-=======
 import React, { useEffect } from 'react';
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
 import RootNavigator from './RootNavigator';
 
 // ErrorBoundary component to catch React errors
@@ -31,10 +27,6 @@ class ErrorBoundary extends React.Component<any, { hasError: boolean; error: any
   }
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
 export default function App() {
   return (
     <ErrorBoundary>
@@ -42,7 +34,3 @@ export default function App() {
     </ErrorBoundary>
   );
 }
-<<<<<<< HEAD
->>>>>>> c2bd6f4 (Initial commit)
-=======
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)

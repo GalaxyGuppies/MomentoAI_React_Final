@@ -3,11 +3,7 @@ import { Dimensions, Animated, Platform, ScrollView, Text, View, Pressable, Touc
 import { useNavigation } from '@react-navigation/native';
 import type { StackNavigationProp } from '@react-navigation/stack';
 import type { LibraryStackParamList } from '../../navigation/LibraryStack';
-<<<<<<< HEAD
-import { useFiles } from '@/context/FileContext';
-=======
 import { useFiles } from '../../context/FileContext';
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
 import { Category } from '../../utils/types';
 import LibraryBubble from './LibraryBubble';
 import FileGrid from './library/FileGrid';

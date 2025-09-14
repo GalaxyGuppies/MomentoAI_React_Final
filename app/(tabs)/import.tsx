@@ -7,15 +7,9 @@ import uuid from 'react-native-uuid';
 import { useNavigation } from '@react-navigation/native';
 import type { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import type { TabParamList } from '../../navigation/types';
-<<<<<<< HEAD
-import { FileContext } from '@/context/FileContext';
-import { View, Text, Pressable, ActivityIndicator, Alert, StyleSheet, Image } from 'react-native';
-import AnalyticsDetails from '@/components/AnalyticsDetails';
-=======
 import { FileContext } from '../../context/FileContext';
 import { View, Text, Pressable, ActivityIndicator, Alert, StyleSheet, Image } from 'react-native';
 import AnalyticsDetails from '../../components/AnalyticsDetails';
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
 import { launchImageLibrary } from 'react-native-image-picker';
 import RNFS from 'react-native-fs';
 // import CameraRoll from '@react-native-community/cameraroll'; // Remove if not used

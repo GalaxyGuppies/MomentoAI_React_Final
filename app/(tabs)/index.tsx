@@ -6,11 +6,10 @@ import { launchCamera, launchImageLibrary } from 'react-native-image-picker';
 import { API_BASE_URL, API_ENDPOINTS } from '../../utils/config';
 import LinearGradient from 'react-native-linear-gradient';
 import { usePersonality } from '../../utils/PersonalityContext';
-<<<<<<< HEAD
-import { FloatingEmoji } from '@/components/FloatingEmoji';
-=======
-import { FloatingEmoji } from '../../components/FloatingEmoji';
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
+// FloatingEmoji is missing; provide a stub for now
+const FloatingEmoji = ({ emoji, trigger }: { emoji: string; trigger: boolean }) => (
+  <Text style={{ fontSize: 32, position: 'absolute', top: 20, right: 20 }}>{emoji}</Text>
+);
 import ColorPicker from 'react-native-wheel-color-picker';
 import { useDropShadow } from '../../utils/DropShadowContext';
 import uuid from 'react-native-uuid';
@@ -149,11 +148,7 @@ const HomeScreenContent: React.FC = () => {
               start={{ x: 0.5, y: 0.5 }}
               end={{ x: 0.5, y: 0.5 }}
             />
-<<<<<<< HEAD
-            <Image source={require('@/assets/images/icon.gif')} style={{ width: 74, height: 74, borderRadius: 22, zIndex: 2 }} />
-=======
             <Image source={require('../../assets/images/icon.png')} style={{ width: 74, height: 74, borderRadius: 22, zIndex: 2 }} />
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
             <FloatingEmoji emoji={lastEmoji} trigger={emojiTrigger} />
           </Animated.View>
         </Pressable>
