@@ -1,20 +1,22 @@
 # Exclude large model weight files
 offload/*.dat
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-<<<<<<< HEAD
+yarn-debug.*
+yarn-error.*
 
 # dependencies
 node_modules/
 
 # Expo
 .expo/
-dist/
+
 web-build/
 
 *.log
 *.tmp
 .expo-shared/
 android/build/
+android/app/build/
 ios/build/
 *.keystore
 
@@ -87,13 +89,6 @@ ner-model/vicuna_data/*
 ner-model/__pycache__/*
 ner-model/venv/*
 ner-gazetteers/__pycache__/*
-=======
-# OSX
-#
-.DS_Store
-=======
->>>>>>> bb36236 (fix: update asset imports, metro config, and resolve asset registry issues)
-
 # dependencies
 node_modules/
 
