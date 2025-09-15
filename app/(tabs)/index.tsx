@@ -106,6 +106,7 @@ const HomeScreenContent: React.FC = () => {
 
   return (
     <View style={{ flex: 1, backgroundColor: '#f7f8fa' }}>
+      <Text style={{ color: 'red', fontSize: 24, textAlign: 'center', marginTop: 40 }}>DEBUG: App Loaded</Text>
       {/* Removed drawer/menu button at top left */}
       {/* Animated header with personality/mood */}
       <View style={{ alignItems: 'center', marginBottom: 10, minHeight: 120, paddingTop: 48 }}>

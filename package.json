@@ -43,13 +43,14 @@
     "url-parse": "^1.5.10"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.2",
-    "@react-native/metro-config": "^0.81.1",
-    "@types/react": "~19.0.10",
-    "eslint": "^9.25.0",
-    "eslint-config-expo": "~9.2.0",
-    "metro-react-native-babel-preset": "^0.77.0",
-    "typescript": "~5.8.3"
+  "@babel/core": "^7.25.2",
+  "@react-native/metro-config": "^0.81.1",
+  "@types/react": "~19.0.10",
+  "eslint": "^9.25.0",
+  "eslint-config-expo": "~9.2.0",
+  "metro-react-native-babel-preset": "^0.77.0",
+  "typescript": "~5.8.3",
+  "@react-native-community/cli": "latest"
   },
   "engines": {
     "node": ">=20"

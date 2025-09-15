@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Image, StyleSheet, Text } from 'react-native';
-import { LinearGradient } from 'expo-linear-gradient';
+import LinearGradient from 'react-native-linear-gradient';
 
 interface LibraryBubbleProps {
   color: string;
@@ -17,8 +17,8 @@ export default function LibraryBubble({ color, label, previewUri }: LibraryBubbl
       <View style={styles.shadow} pointerEvents="none" />
       <LinearGradient
         colors={[color, '#fff', color]}
-        start={[0.2, 0.1]}
-        end={[0.8, 0.9]}
+        start={{ x: 0.2, y: 0.1 }}
+        end={{ x: 0.8, y: 0.9 }}
         style={styles.gradient}
       />
       {/* Preview image (under overlay) */}

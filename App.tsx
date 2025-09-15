@@ -29,8 +29,11 @@ class ErrorBoundary extends React.Component<any, { hasError: boolean; error: any
 
 export default function App() {
   return (
-    <ErrorBoundary>
-      <RootNavigator />
-    </ErrorBoundary>
+    <>
+      <Text style={{ color: 'red', fontSize: 24, textAlign: 'center', marginTop: 40 }}>DEBUG: App Root Loaded</Text>
+      <ErrorBoundary>
+        <RootNavigator />
+      </ErrorBoundary>
+    </>
   );
 }

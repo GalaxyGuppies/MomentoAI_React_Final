@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { Text } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator, StackNavigationOptions } from '@react-navigation/stack';
 import TabNavigator from './navigation/TabNavigator';
@@ -22,7 +23,7 @@ export default function RootNavigator() {
       <DropShadowProvider>
         <PersonalityProvider>
           <NavigationContainer>
-            <RootStack.Navigator screenOptions={{ headerShown: false } as StackNavigationOptions}>
+            <RootStack.Navigator id={undefined} screenOptions={{ headerShown: false } as StackNavigationOptions}>
               <RootStack.Screen name="Main" component={TabNavigator} />
               <RootStack.Screen name="ImageDetail" component={ImageDetail} options={{ headerShown: true, headerTitle: 'Image Detail' }} />
             </RootStack.Navigator>
